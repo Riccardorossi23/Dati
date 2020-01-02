@@ -33,6 +33,7 @@ namespace Dati
             Console.WriteLine(number1);//viene letto il numero;
             Console.ReadLine();
 
+
         }
     }
 }
